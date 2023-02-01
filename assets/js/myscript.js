@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let sinhViens = ["Hương", "Hà", "Đức", "Thoa"];
 
 // Tạo mảng tạm thời để chứa đối tượng với vị trí
@@ -15,3 +16,5 @@ let sinhVienDaSapXep = doDaiTen.map(function(e) {
 
 // In ra kết quả
 console.log(sinhVienDaSapXep);
+=======
+>>>>>>> 2be32d49c600b10e77f7d63e68b47d5d73fb1575
